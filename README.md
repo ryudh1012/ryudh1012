@@ -35,7 +35,7 @@
 
 ## Goals
 - Prepare for a career in Big Data and AI by 2025
-- Earn a machine learning certification
+- Obtain a computer engineering certification
 - Regularly update my GitHub with new projects
 
 ## Connect with Me
