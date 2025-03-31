@@ -4,7 +4,7 @@
 > **"I want to make the world better through data!"**
 
 ## About Me
-- Currently studying Big Data at Polytechnic University (Year 2)
+- Currently studying Big Data at Korea Polytechnic (Year 2)
 - Interests: Data analysis, web development, AI
 - Future learning goals: R, Vue, AI, Machine Learning, Cloud Services
 
