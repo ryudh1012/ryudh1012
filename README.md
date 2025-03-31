@@ -30,8 +30,8 @@
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryudh1012&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryudh1012&layout=compact)
 
 ## Goals
 - Prepare for a career in Vue.js and AI by 2025
