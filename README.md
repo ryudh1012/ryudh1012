@@ -1,5 +1,5 @@
 # Hi there! 
-### I’m a Big Data student at Polytechnic University, Year 2.
+### I’m a Big Data student at Korea Polytechnic Gangseo Campus, Year 2.
 
 > **"I want to make the world better through data!"**
 
