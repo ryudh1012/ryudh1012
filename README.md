@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryudh1012&layout=compact)
 
 ## Goals
-- Prepare for a career in Vue.js and AI by 2025
+- Prepare for a career in Big Data and AI by 2025
 - Earn a machine learning certification
 - Regularly update my GitHub with new projects
 
